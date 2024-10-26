@@ -1,7 +1,6 @@
 # Ex04 Places Around Me
-### Name : SURIYA RAJ K
-### Reg.no:212223040216
-## Date:21/10/2024
+### Name : GOKULNATH H
+
 
 ## AIM
 To develop a website to display details about the places around my house.
